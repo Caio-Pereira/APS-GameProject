@@ -49,6 +49,12 @@ public class Main {
         
         Exercise10 Ex10 = new Exercise10();
         Ex10.personHeight();
+
+
+
+
+	Exercise1200 Ex1200 = new Exercise1200();
+        Ex1200.personHeight();
     }
     
 }
